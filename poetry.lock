@@ -1,0 +1,18 @@
+[[package]]
+name = "log2"
+version = "0.2.1"
+description = "Several functions for computing the log base 2 of a unsigned 32-bit length word"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "f7179b6ca1c3fea4096c195f78c84fec8c1fc0302a909b8abafbf2731d06c82a"
+
+[metadata.files]
+log2 = [
+    {file = "log2-0.2.1-py3-none-any.whl", hash = "sha256:554f9c002567a3f0bf4d49a79ecf987cba5d6ce22fe478ae8968b09d0cd9a910"},
+    {file = "log2-0.2.1.tar.gz", hash = "sha256:c779b4436e6ff7eb3c50b2be4d7203a8db207fe60233d4764f74da608daa71ba"},
+]
